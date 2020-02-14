@@ -1,6 +1,7 @@
 from random import randint
 
 turn = ["Rock", "Paper", "Scissors"]
+print("Welcome")
 
 computer = turn[randint(0,2)]
 player = False
